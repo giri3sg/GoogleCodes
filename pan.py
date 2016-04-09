@@ -1,4 +1,4 @@
-_T = int(raw_input())
+_T = int(raw_input()) #read number of test cases
 for _t in range(_T):
   res = 0
   stack = raw_input()
